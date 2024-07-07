@@ -1,0 +1,13 @@
+12								
+PV455JX	2021	BMW	Diesel	8	5	200	2	1
+EM434NK	2019	Audi	Gasoline	6	5	180	0	0
+VS144SV	2017	Volvo	Diesel	7	5	100	2	1
+GN126LJ	2010	Jeep	Gasoline	9	7	250	1	0
+NO117MX	2012	Porsche	Gasoline	10	7	300	3	1
+KM553HD	2022	Chevrolet	Diesel	5	7	270	0	0
+ZX637MR	2023	Volvo	Diesel	6	5	300	0	0
+NH043AQ	2020	Porsche	Diesel	7	7	140	2	0
+WC574XY	2021	Volkswagen	Diesel	9	5	120	1	1
+HD782FG	2016	BMW	Gasoline	8	7	210	1	1
+QR255RH	2016	Chevrolet	Diesel	10	5	150	2	0
+RR212WB	2017	Ferrari	Diesel	6	5	250	1	0

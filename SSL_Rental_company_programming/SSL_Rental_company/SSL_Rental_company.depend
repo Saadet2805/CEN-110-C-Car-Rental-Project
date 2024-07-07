@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1686169165 source:c:\users\layan\onedrive\desktop\ssl_rental_company\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"structures.h"
+	"design.h"
+	"Layan_Get_Data.h"
+	"saadet.h"
+	"selma.h"
+	"layan.h"
+
+1685996320 c:\users\layan\onedrive\desktop\ssl_rental_company\structures.h
+
+1686123669 c:\users\layan\onedrive\desktop\ssl_rental_company\design.h
+
+1686170272 c:\users\layan\onedrive\desktop\ssl_rental_company\layan.h
+
+1686142341 c:\users\layan\onedrive\desktop\ssl_rental_company\saadet.h
+
+1686170273 c:\users\layan\onedrive\desktop\ssl_rental_company\selma.h
+
+1686167452 c:\users\layan\onedrive\desktop\ssl_rental_company\layan_get_data.h
+
